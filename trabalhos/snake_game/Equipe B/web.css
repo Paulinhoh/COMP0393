@@ -1,0 +1,23 @@
+html, body {
+  height:          100%;
+  margin:          0;
+  padding:         0;
+  background:      #121212;
+  text-align:      center;
+  color:           #fff;
+  display:         flex;
+  justify-content: center;
+  align-items:     center;
+}
+
+body {
+  position: relative;
+}
+#score {
+  position: absolute; top:12em; left: 0;
+  
+}
+#scorePoints {
+  position: absolute; top:12em; left: 5em;
+  
+}
